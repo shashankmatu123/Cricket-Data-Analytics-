@@ -1,1 +1,2 @@
 # Cricket-Data-Analytics-
+•	It involves analyzing historical cricket world cup using Microsoft Power Bi. This project provide interactive and visually engaging dashboards that present valuable insights on player performance, team statistics, and match outcomes. Cricket enthusiasts and stakeholders   can use this data-driven analysis to gain a deeper understanding the game’s dynamics and make inform decision.
